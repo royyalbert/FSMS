@@ -10,7 +10,7 @@ function CustomApp({ Component, pageProps }: AppProps) {
       </Head>
       <main className="app">
         <Component {...pageProps} />
-      </main>
+      </main> 
     </>
   );
 }
