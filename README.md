@@ -1,5 +1,4 @@
 # 
-
 <img src="https://cdn.discordapp.com/attachments/1102920851608834098/1346973444750971024/WhatsApp_2025-03-06_00.30.23_076ad47c.jpg?ex=67ca2246&is=67c8d0c6&hm=fe12aadd90e154296b7ecf288c4c7497ae971dafa5d986cf1d68aab8fdaa75bd&" alt="Skeleton Army 23644" width="45" />
 
 # FSMS - FTC Scouting Management System
