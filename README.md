@@ -40,4 +40,4 @@ FSMS (FTC Scouting Management System) is an open source project designed to help
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/fsms.git
+   git clone https://github.com/royyalbertfsms.git
